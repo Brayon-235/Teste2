@@ -5,6 +5,7 @@
 head{
     background-color: chocolate;
     margin: 0px;
-    justify-content: baseline;
+    justify-content: center;
+    align-items: end;
 
 }
